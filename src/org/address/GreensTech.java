@@ -17,17 +17,13 @@ public class GreensTech {
 		System.out.println("greensTambaram");
 
 	}
-	private void greensAnnaNagar() {
-	    System.out.println("greensAnnaNagar");
-
-	}
-	public static void main(String[] args) {
+		public static void main(String[] args) {
 		GreensTech b = new GreensTech();
 		b.greensOmr();
 		b.greensAdayar();
 		b.greensVelacherry();
 		b.greensTambaram();
-		b.greensAnnaNagar();
+		
 	}
 
 }
